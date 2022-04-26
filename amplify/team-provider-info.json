@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "ecommerceappf297dde6": {}
+        "ecommerceappf297dde6": {},
+        "undefined": {}
       },
       "function": {
         "ecommerceappf297dde6PostConfirmation": {
