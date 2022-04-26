@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "ecommerceappf297dde6PostConfirmation": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}

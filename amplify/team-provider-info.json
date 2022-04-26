@@ -10,6 +10,16 @@
       "StackName": "amplify-ecommerceapp-dev-93323",
       "StackId": "arn:aws:cloudformation:us-east-2:085907470738:stack/amplify-ecommerceapp-dev-93323/d4f5d2f0-c56d-11ec-bdce-028ddab0a32c",
       "AmplifyAppId": "d3p0zyugyo1z68"
+    },
+    "categories": {
+      "auth": {
+        "ecommerceappf297dde6": {}
+      },
+      "function": {
+        "ecommerceappf297dde6PostConfirmation": {
+          "GROUP": "Admin"
+        }
+      }
     }
   }
 }
